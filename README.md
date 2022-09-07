@@ -28,16 +28,10 @@ We are a Team of four students and below are the details.
  
 ## The project status 
 
-In Stage-1 we are trying to understand the different Enrichment stage and relate with the COVID-19 dataset. Using Python libraries we perform data wrangling with the COVID and enrichment dataset so that these files could be merged to analyze the spread of COVID19 pandemic.. 
+
+### Stage 1:
 
 
-### Stage 1: Information about the assigned enrichment datasets 
-
-<li>ACS Social, Economic, and Housing Dataset - Kyle Killworth</li>
-<li>Presidential Election Results (Political leanings) - Reetika Sarkar </li>
-<li>Hospital Beds Dataset -  Priyanka Budavi</li>
-<li>Census Demographic ACS - Manish Shah </li>
-<li>Employment Dataset  - Aditi Darandale </li>
 
 ## Technologies
    Project is created with : 
