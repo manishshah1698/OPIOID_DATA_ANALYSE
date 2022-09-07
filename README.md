@@ -24,7 +24,7 @@ We are a Team of four students and below are the details.
 
 ## Overview
 
- 
+ Accidental death by fatal drug overdose is the rising trend in the United States. In the  1990's Opioid was prescribed as a pain reliever and the companies assured that it's not an addictive drug. Later with the increase in the prescriptions for Opioid, it came to light that people started misusing and overdose of the drug was highly addictive. This led to increased fatality rates. We are going to study the underlying patterns that exist between opioid related deaths and the different socio-economic, demographic, geographic,  and equity related variables that are available for the US population. The goal of this project is to extract such patterns, analyze them using data science techniques and compare with the other publicly available datasets  for trends across the US and how this has affected people. 
  
 ## The project status 
 
