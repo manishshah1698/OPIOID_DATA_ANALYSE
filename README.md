@@ -40,7 +40,7 @@ We are a Team of four students and below are the details.
      
      
 ## Setup
-Download the github repository either using https or SSH, and open the required file in jupyter notebook from the src folder.
+Download the github repository  and open the required file in jupyter notebook from the src folder.
 The Link for the dataset can be downloaded/viewed from the below links : 
   1. ./data/Underlying Cause of Death-County-2019.txt  - Drug Overdose Dataset
   2. ./data/County_Health_Ranking.csv - County Health Rankings
