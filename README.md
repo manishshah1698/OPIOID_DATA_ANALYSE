@@ -6,7 +6,7 @@ We are a Team of four students and below are the details.
 <li>Priyanka  Budavi - Graduate</li>
 <li> Aditi Darandale - Graduate</li>
 <li> Manish Shah - Graduate</li>
-<li> Raveena Rakesh Arasikere  - Graduate</li>
+<li> Raveena Arasikere Rakesh  - Graduate</li>
 
 
 
