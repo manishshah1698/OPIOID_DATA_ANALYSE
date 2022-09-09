@@ -28,9 +28,10 @@ We are a Team of four students and below are the details.
  
 ## The project status 
 
+### Stage 1: 
 
-### Stage 1:
-
+In Stage-1 we are trying to understand the different datasets that has the information related to Opiod Epidemic.
+Using Python libraries we perform data wrangling with the datasets so that these files could be merged to analyze the spread of Opiod Endemic.
 
 
 ## Technologies
