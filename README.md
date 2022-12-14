@@ -15,5 +15,10 @@ Join - Using join to merge data based on index key.
 The notebooks is viewable via any browser.
 
 # Stage II  - Data Modeling
+The goal of Stage II is to develop the data for modeling and comparative analysis. Here you will be graphically comparing how different states are doing with respect to opioid mortality rate. And you will be also analysing county based information for different states in the US.
+
 # Stage III - Distributions and Hypothesis Testing 
+The goal of Stage III is to develop advanced data for modeling for comparative analysis and hypothesis testing.
+
 # Stage IV  - Dashboard
+The final stage aims a developing a simple interactive dashboard based on the analysis you have done so far. In this we will be utilizing Plotly (https://plotly.com/) along with Dash (https://plotly.com/dash/) as our framework.
